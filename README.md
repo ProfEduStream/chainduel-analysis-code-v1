@@ -100,5 +100,4 @@ MIT License - Feel free to use this code for any purpose while maintaining the l
 
 ## Reference
 
-Based on the Chain Duel game: https://chainduel.net/
-Based on asi0's work: https://github.com/Asi0Flammeus/chainduel_simulation/
+Based on the Chain Duel game: https://chainduel.net/ & https://github.com/Asi0Flammeus/chainduel_simulation/
